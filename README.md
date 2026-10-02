@@ -2,7 +2,7 @@
 
 Учебный Docs as Code проект: руководство по стилю технической документации веб-приложения.
 
-Опубликованная документация: [frizyyu.github.io/pd3](https://frizyyu.github.io/pd3/).
+Опубликованная документация: [frizyyu.github.io/style-guide-project](https://frizyyu.github.io/style-guide-project/).
 
 ## Назначение
 
