@@ -1,0 +1,11 @@
+site_name: Style Guide Project
+site_description: Руководство по стилю технической документации веб-приложения
+repo_url: https://github.com/frizyyu/pd3
+nav:
+  - Главная: index.md
+  - Общие принципы: general.md
+  - Язык и стиль: language.md
+  - Структура документа: structure.md
+  - Оформление: formatting.md
+  - Примеры кода: code.md
+  - Терминология: terminology.md
